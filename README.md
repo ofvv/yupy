@@ -1,2 +1,2 @@
-# yupy
-Yupy Boy from 2020
+# YUPY
+Yupy Bot from 2020
